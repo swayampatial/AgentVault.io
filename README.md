@@ -1,4 +1,4 @@
-PDF Google doc Link (https://docs.google.com/document/d/1SJcNTGc0NB8_AR1U0jzjFAYawFSA41ZRbizXJsrJjKc/edit?tab=t.0)
+Google doc Link (https://docs.google.com/document/d/1SJcNTGc0NB8_AR1U0jzjFAYawFSA41ZRbizXJsrJjKc/edit?tab=t.0)
 
 readme_content = """# AgentVault Growth Strategy: Kickstarting the First 50 Users
 
